@@ -1,0 +1,1 @@
+This is a low game that powered by Cocos2D-X. We wrote it for fun. This is it.

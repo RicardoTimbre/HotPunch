@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="157" height="22" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Ground" tilewidth="16" tileheight="16">
+  <image source="../../../HotPuntch/Resources/Tiles/Ground.png" width="512" height="1440"/>
+ </tileset>
+ <tileset firstgid="2881" name="Multiplied" tilewidth="16" tileheight="16">
+  <image source="../../../HotPuntch/Resources/Tiles/Multiplied.png" width="512" height="1728"/>
+ </tileset>
+ <tileset firstgid="6337" name="Outside01" tilewidth="16" tileheight="16">
+  <image source="../../../HotPuntch/Resources/Tiles/Outside01.png" width="512" height="512"/>
+ </tileset>
+ <layer name="块层 1" width="157" height="22">
+  <data encoding="base64" compression="zlib">
+   eJztWUFSwkAQXBMvmyfASeSivxC96C9EL/iAeBa94AOSs+hFfyFy0V+IvAIuTips1bCGdUimSDbZqerqJMzuZLK9k2IihDNnzpzV2xaeEEuvOeysfGv5QrT95rCz8uwT9vxXBeqOq3PNMQl7PqhA3alCnWv5m2GqjaZxFLQbVnux5qpQf3bFRXVCwcKjoWk6VJrbk0J4DPARPALvyzQ21Z+DbYuZjK2TKc0dQF4dBhwidAjclWlsqj8H2xazW1PNnUBePQacIvQIfCbT2FR/DrYtZjK2Tu9ZpblLyKvPgCuEPoGvZRqb6s/BtsVMxtapx6M0dwd5DRlwjzAk8INMY1P9Odi2mMlY9V+jDro7ghyOAU+Q15gBzwhjAr/INDbVn4Nti5mMXXrruitbf9Q+Upadg/8F4B3ymjDgA2FC4KlMY1P9Odi2mNOV5vSeTxHdcfWB8tzDAPxvAN+Q14wBPwgzAs9lGpvqz8G2xZwjzWHg3t42675N7xBDN/0eqP10pbkwEOI2WOcEESBeXYvQOb6OESM/3V8dxxnzOM7Hel/Z9I2ljWpUohe8bmHwdy3133RTv1F63vi+RivNZeXE9VzCjPt3zMtqffVvLLrOsN5ihEg7x+tl0tx/UJpcIu2NDHVO10xRrkJdaALjGqPrTAFrLcy4ho/VeR7NZWnP1bl6s77nMaIt59r0bjXFztKeqc5x5L1pDzneDat1wM8/73rqRtWsrrmBoc6pMUXyLnufN50V1HoUmUu3vPMkde5xB3Wu7P3eVMaoiuZeQW9vgF/qQ+Nf
+  </data>
+ </layer>
+ <layer name="块层 2" width="157" height="22">
+  <data encoding="base64" compression="zlib">
+   eJztlVEKgzAQBXMB/Wxv0t4k3v8S9reBEliWtSqtm43OQHgK6ip5jPOQ0qusmSSd8jamdB9J0i8j9N4zH2U9GyWzPhmh956ZyzdPQ5u8+qxKa+94Zwu/9eAej1mV1t7Bc9eZBbH51VWRPQexkXuK58AD7RI8Bx7kYb/v/uUxOVef7/Uv9IXs3VGes54v+6vPa271L/RHFnu+5j15bPXKusfqmL5Hry3eo3PnQO/3N8/pLlpLd9W63vo/yvm6Y7qD0D+Wa5bcdtS+L3UUz52btf9tS89kOndqLMdEINK7AAAAAAAAAKzxBmAvOQM=
+  </data>
+ </layer>
+ <layer name="块层 3" width="157" height="22">
+  <data encoding="base64" compression="zlib">
+   eJztWVlOHDEQbYnlBiDRM/ATkhsQaUaCewSJ5RYsUpZLJCTcgy2XgB+WRIJwA/hJIJESeIgppSjc7h673N3T4yehHqrsWt+4bU+SREREREREhMdBmiRf06qjKA9TyDV1yNc2z9VmCH+ky4spS19UbhqnWYcvsLPdEF52kEfXIRfbPJuu395Km6ZxJn80jnR5eWbpuZz7luNN86XMh4NNWgvfII9FlstaK0nWW4+fbTWyzZM6W68IJCc70jfZNHGA+5NcI50tJhkz13E5901yGUPWXFvuw4YN1GCT1WEL/f7c446tRrZ5UmfqlQTJyY70TTZNHOD+JNdIR0/JSVM+XMfl3DfJZQxZc025h9iDDCL20O/9VnnzQtnJwwp6vRr7XQucot9nDj13nadhZ6SdJKPt//8X4dN76D94cu4QcR4F/H7krYNNOVfcoIa3DnV0nadh5wX4Nss4p8GnIrhCnNcBOZe3/2vSucIX5+jDRcBeHKPOJ0NQ66y9b1Wow/7zB/xfGmL4C779U+bcN/j53vP1E89fzO8pPp/VqDdakGcQDfjwpqxzdxavHnD3IDdwaxrvuZn2c7kPfsPXn14cE/A5yfzeQH7bZy1sPK3b+WIascwoxePDmyLrrsZamMUrG+bBtwVlzk0hhrQXxxyerz3XURtPy9oP5oG4No+/hfSpzBU+7+si625RTi9hzLJijZfAt2VlznXAsW4JdyhloOh5l3PNJHPhX4j3NUdRTr/FmHc1+F43Gfw+R+u8a+Jk1XDl9EfM+aSUi6atQYa8zwmBMdgfD+wjFHbAkV0lnmjairDjJfj2akA5Vzc09S5kWDEI/XS5CyHI38UiqodPPzn6/e2xrH1eGfuoiGrQ71ks7vOGE/dIILO6
+  </data>
+ </layer>
+ <layer name="块层 4" width="157" height="22">
+  <data encoding="base64" compression="zlib">
+   eJzt1MsJAlEMBdC08WC60Y22oRttw79tKPip0jRhfDOeAyHbQC43AgAAAOjJrEXM2zg207DKX67bODbTsMtf7nMOOcdO9ynnLHOTcctf3jv/5yPve3Z+I8C3LIaI5fDrK/gnm8zbVuYodMm8XWWOQq/M21vmKKTnqKbnqKbnqKbnqKbnAPr2AckUTa8=
+  </data>
+ </layer>
+ <layer name="块层 5" width="157" height="22">
+  <data encoding="base64" compression="zlib">
+   eJztlmlKw0AcR2cKtm6XUHD3Gi6tvYZLa6/h7jXcvYSCu5eo4O4hfKFfSlpqQ5KJQ34PHkMgzX8+PKZjTDSu8Drib4SIQxNfst6EyBXWGlOwWe9C5IkxehtXc8Ihus8J1+g+J1yj+5xwje5zQgghxP9hj//kfTzAw5T+n13MEP5wRgPneIGXKfXgYobwhwcaeMQnfE6pBxczhD980sAXfuMPlhO2YjtniHwzVDBmGEdwFFdoompbaxIG3wrPEPHZKhqzjTu4W8x6N9GYoYFZnMP5lJoLzxDxOaKzYzzBU8+aK9NAJWgNq7hJIw3bWpMw+FZ4hojPDZ3d4h3ee9ZcjQbqQWvYwBqN1G209c93QjNEfF7p7A3f8cOz5sJnUPtzr7Wfd7p9U+dcMgyUjCliCQdLWe8mGh3nXNtzr7Wfd7p9U+dcMkzQ2SRO4bRnzQk/WaCzRVzCZTUnHLBKZ2u4jhsJNPcLkD5u3g==
+  </data>
+ </layer>
+ <objectgroup name="groundRect" width="157" height="22">
+  <object name="Ground1" x="0" y="294" width="2560" height="55"/>
+  <object name="Ground2" x="193" y="0" width="31" height="125"/>
+  <object name="Ground3" x="488" y="257" width="352" height="39"/>
+  <object name="Ground4" x="434" y="174" width="61" height="132"/>
+  <object name="Ground5" x="833" y="196" width="59" height="98"/>
+  <object name="Ground6" x="977" y="100" width="685" height="28"/>
+  <object name="Ground7" x="1744" y="188" width="31" height="106"/>
+  <object name="Ground8" x="2194" y="223" width="64" height="72"/>
+  <object name="Ground9" x="2482" y="-11" width="58" height="302"/>
+ </objectgroup>
+</map>
